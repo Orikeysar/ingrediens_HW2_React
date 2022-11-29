@@ -1,0 +1,22 @@
+const IngredientskData = [
+    {
+        name: "candy",
+        calories: 8,
+        imageURL:
+          "https://kanyonmamtakim.co.il/wp-content/uploads/2021/10/TOFI.jpg",
+    },
+    {
+      iname: "candy1",
+      calories: 11,
+      imageURL:
+        "https://kanyonmamtakim.co.il/wp-content/uploads/2021/10/TOFI.jpg",
+    },
+    {
+        name: "candy2",
+        calories: 22,
+        imageURL:
+          "https://kanyonmamtakim.co.il/wp-content/uploads/2021/10/TOFI.jpg",
+    },
+  ]
+  
+  export default FeedbackData
